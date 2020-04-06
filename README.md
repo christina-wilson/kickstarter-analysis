@@ -6,6 +6,7 @@ Based on the data, campaigns that meet or exceed their campaign goals tend to la
 
 ![Outcomes Based On Launch Date](https://github.com/christina-wilson/kickstarter-analysis/blob/master/OutcomesBasedOnLaunchDate.png)
 
+
 ![Outcomes Based On Goal](https://github.com/christina-wilson/kickstarter-analysis/blob/master/OutcomesBasedOnGoal.png)
 
 This dataset, however, does not account for the genre of theater plays related to these numbers. Additional analysis is recommended to determine if genre correlates with meeting / not meeting campaign goals in a stronger fashion than launch date or total campaign goal.
